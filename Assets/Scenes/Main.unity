@@ -3622,7 +3622,7 @@ MonoBehaviour:
   bSound: {fileID: 8300000, guid: 521ced669f83d429a85abda915b64cca, type: 3}
   zSound: {fileID: 8300000, guid: 726574984ec7a4b53868924d990acd4c, type: 3}
   chSound: {fileID: 8300000, guid: 6dc7d8d5b9af446f094807921b4e6736, type: 3}
-  congratsSound: {fileID: 8300000, guid: 561021118f3ff42b6aeb7efe34c76004, type: 3}
+  congratsSound: {fileID: 8300000, guid: 372b8779dce6c491f869e2eeccb4ac10, type: 3}
 --- !u!82 &1856202982
 AudioSource:
   m_ObjectHideFlags: 0
